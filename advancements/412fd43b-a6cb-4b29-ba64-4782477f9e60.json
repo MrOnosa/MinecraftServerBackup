@@ -314,12 +314,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_at_least_9_emerald": "2019-03-04 17:14:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-01-20 16:16:53 +0000"
@@ -440,18 +434,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_at_least_9_emerald": "2019-03-04 17:14:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wooden_fences": "2019-07-31 20:18:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-01-27 15:53:07 +0000"
@@ -482,12 +464,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar": {
-    "criteria": {
-      "has_reeds": "2019-02-17 15:54:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2019-10-21 15:43:52 +0000"
@@ -503,12 +479,6 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-02-05 01:10:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_at_least_9_gold_ingot": "2019-03-04 22:08:30 +0000"
     },
     "done": true
   },
@@ -750,7 +720,7 @@
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_at_least_9_redstone": "2019-02-27 22:44:06 +0000"
+      "has_redstone": "2019-12-12 18:04:25 +0000"
     },
     "done": true
   },
@@ -991,12 +961,6 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2019-02-05 01:33:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2019-02-24 12:13:31 +0000"
     },
     "done": true
   },
@@ -1358,8 +1322,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-03-04 12:45:41 +0000",
-      "minecraft:forest": "2019-01-30 01:24:08 +0000",
       "minecraft:mountains": "2019-02-24 20:06:27 +0000",
+      "minecraft:forest": "2019-01-30 01:24:08 +0000",
       "minecraft:taiga": "2019-07-28 15:06:45 +0000",
       "minecraft:desert": "2019-02-20 12:21:55 +0000",
       "minecraft:deep_frozen_ocean": "2019-03-04 12:45:48 +0000",
@@ -1370,8 +1334,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-07-28 15:03:54 +0000",
       "minecraft:beach": "2019-03-04 12:45:36 +0000",
       "minecraft:dark_forest": "2019-01-23 23:18:31 +0000",
-      "minecraft:river": "2019-01-20 16:16:35 +0000",
       "minecraft:lukewarm_ocean": "2019-07-28 15:03:49 +0000",
+      "minecraft:river": "2019-01-20 16:16:35 +0000",
       "minecraft:birch_forest_hills": "2019-02-21 12:18:08 +0000",
       "minecraft:wooded_mountains": "2019-09-22 14:58:25 +0000",
       "minecraft:wooded_hills": "2019-01-23 01:17:15 +0000",
@@ -1552,13 +1516,13 @@
   },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
-      "has_at_least_9_diamond": "2019-03-06 12:22:14 +0000"
+      "has_diamond": "2019-12-12 18:04:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
+  "minecraft:recipes/food/honey_bottle": {
     "criteria": {
-      "has_dried_kelp_block": "2019-01-23 22:58:54 +0000"
+      "has_honey_block": "2019-12-15 14:14:38 +0000"
     },
     "done": true
   },
@@ -2113,12 +2077,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_at_least_9_wheat": "2019-03-04 17:07:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-08-15 18:58:55 +0000"
@@ -2557,12 +2515,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/slime_block": {
-    "criteria": {
-      "has_at_least_9_slime_ball": "2019-03-01 12:16:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2019-03-04 16:41:32 +0000"
@@ -2793,7 +2745,7 @@
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_at_least_9_coal": "2019-02-27 22:50:57 +0000"
+      "has_coal": "2019-12-12 18:04:25 +0000"
     },
     "done": true
   },
@@ -2977,12 +2929,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_at_least_9_coal": "2019-02-27 22:50:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-01-23 22:58:26 +0000"
@@ -3112,12 +3058,6 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2019-01-26 14:35:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_at_least_9_iron_nugget": "2019-03-04 17:14:00 +0000"
     },
     "done": true
   },
@@ -3295,13 +3235,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-07-31 20:25:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-07-31 20:25:20 +0000"
     },
@@ -3391,5 +3331,5 @@
     },
     "done": true
   },
-  "DataVersion": 1976
+  "DataVersion": 2225
 }
