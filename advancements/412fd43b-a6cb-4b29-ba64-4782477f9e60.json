@@ -1322,8 +1322,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-03-04 12:45:41 +0000",
-      "minecraft:mountains": "2019-02-24 20:06:27 +0000",
       "minecraft:forest": "2019-01-30 01:24:08 +0000",
+      "minecraft:mountains": "2019-02-24 20:06:27 +0000",
       "minecraft:taiga": "2019-07-28 15:06:45 +0000",
       "minecraft:desert": "2019-02-20 12:21:55 +0000",
       "minecraft:deep_frozen_ocean": "2019-03-04 12:45:48 +0000",
@@ -1334,8 +1334,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-07-28 15:03:54 +0000",
       "minecraft:beach": "2019-03-04 12:45:36 +0000",
       "minecraft:dark_forest": "2019-01-23 23:18:31 +0000",
-      "minecraft:lukewarm_ocean": "2019-07-28 15:03:49 +0000",
       "minecraft:river": "2019-01-20 16:16:35 +0000",
+      "minecraft:lukewarm_ocean": "2019-07-28 15:03:49 +0000",
       "minecraft:birch_forest_hills": "2019-02-21 12:18:08 +0000",
       "minecraft:wooded_mountains": "2019-09-22 14:58:25 +0000",
       "minecraft:wooded_hills": "2019-01-23 01:17:15 +0000",
@@ -2989,6 +2989,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-03-22 17:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-08-31 11:26:54 +0000"
@@ -3331,5 +3337,5 @@
     },
     "done": true
   },
-  "DataVersion": 2225
+  "DataVersion": 2230
 }
