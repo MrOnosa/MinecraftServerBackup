@@ -988,6 +988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-03-28 23:19:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-02-17 15:02:02 +0000"
@@ -1033,6 +1039,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-02-17 15:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-03-28 23:19:06 +0000"
     },
     "done": true
   },
@@ -1780,6 +1792,7 @@
       "minecraft:jungle_hills": "2019-03-04 21:54:55 +0000",
       "minecraft:warm_ocean": "2019-07-28 15:04:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-07-28 15:03:58 +0000",
+      "minecraft:savanna_plateau": "2020-03-28 23:28:11 +0000",
       "minecraft:beach": "2019-03-04 21:26:57 +0000",
       "minecraft:dark_forest": "2019-02-17 00:56:23 +0000",
       "minecraft:river": "2019-01-20 20:11:16 +0000",
